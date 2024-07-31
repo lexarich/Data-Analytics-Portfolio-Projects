@@ -1,15 +1,25 @@
-# Data-Analytics-Portfolio-Projects
-Welcome to my Data Analytics Portfolio. This repository contains various projects demonstrating my skills in data cleaning, data exploration, and creating insightful dashboards using different tools-SQL,Tableau,Excel.
-Projects
 
-## 1. Data Cleaning in SQL
-In this project, we take raw layoffs data and transform it in SQL Server to make it more usable for analysis. This involves removing duplicates, standardizing data formats, and handling missing values to prepare the data for further analysis.
 
-## 2. Data Exploration in SQL
-This project involves using SQL Server to explore global layoffs data. We perform various exploratory data analysis (EDA) techniques to uncover trends, patterns, and insights from the data.
+# DATA CLEANING IN SQL
 
-## 3. Tableau Dashboard for AirBnB Financial Forecasting
-This project showcases a Tableau dashboard created for forecasting AirBnB's financial performance. The dashboard provides interactive visualizations to help understand key financial metrics and trends.
+## **Project Overview**:
+In this project, we take raw layoffs data and transform it using SQL Server to make it more usable for analysis. The raw data often comes with inconsistencies, missing values, and various anomalies that can hinder meaningful analysis. By leveraging the power of SQL, we perform comprehensive data cleaning and transformation to ensure the data is accurate, complete, and ready for insightful analysis.
 
-## 4. Excel Dashboard for Bike Sales Financial Forecasting
-In this project, we develop an Excel dashboard to forecast bike sales. The dashboard includes various charts and metrics to analyze sales performance and predict future sales trends.
+## **Key Steps**:
+1. **Data Import**: Load the raw layoffs data into SQL Server.
+2. **Data Cleaning**:
+   - Remove duplicates
+   - Handle missing values
+   - Standardize data formats
+3. **Data Transformation**:
+   - Normalize and structure data for better usability
+   - Create derived columns for enhanced analysis
+4. **Quality Assurance**: Validate the cleaned data to ensure accuracy and completeness.
+5. **Documentation**: Detailed comments and explanations for each SQL script.
+
+## **Tools Used**:
+- SQL Server
+
+## **Outcome**:
+A cleaned and transformed dataset ready for deeper analysis and visualization, enabling more accurate and meaningful insights from the layoffs data.
+
