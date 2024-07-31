@@ -1,6 +1,7 @@
 
 
-# DATA CLEANING IN SQL
+# Layoffs-Data-Analysis-with-SQL
+
 
 ## **Project Overview**:
 In this project, we take raw layoffs data and transform it using SQL Server to make it more usable for analysis. The raw data often comes with inconsistencies, missing values, and various anomalies that can hinder meaningful analysis. By leveraging the power of SQL, we perform comprehensive data cleaning and transformation to ensure the data is accurate, complete, and ready for insightful analysis.
